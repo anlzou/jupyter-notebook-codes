@@ -1,0 +1,6 @@
+############
+##  tets  ## 
+############
+f = open('file',mode='r',encoding='utf-8')
+f.read()
+f.close()
