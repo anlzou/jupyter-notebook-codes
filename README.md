@@ -14,9 +14,9 @@ Python 3.8.5 | packaged by conda-forge | (default, Jul 31 2020, 02:39:48)
 ```
 
 ### docker > docker.io/jupyter/all-spark-notebook
-    - Python
-    - R
-    - spylon-kernel  
+- Python
+- R
+- spylon-kernel  
 **Current Kernel Information:**
 ```
 Python 3.8.5 | packaged by conda-forge | (default, Jul 31 2020, 02:39:48) 
