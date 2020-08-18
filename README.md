@@ -1,5 +1,8 @@
 # Jupyter notebook run on Cloud Server
-## docker images
+## my docker image
+- not ready yet
+
+## deploy
 - 
 
 ## kernel
@@ -77,6 +80,7 @@ https://github.com/n-riesco/ijavascript
 unable to contact kernel
 ```
 
-## package
-- git
+## package&extensions
+- Git
+- Anaconda
 - Nbextensions
