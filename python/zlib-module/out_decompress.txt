@@ -1,0 +1,15 @@
+FileNotFoundError                         Traceback (most recent call last)
+<ipython-input-10-28f74befdabe> in <module>
+     21 
+     22 if __name__ == "__main__":
+---> 23     compress('in.txt', 'out.txt')
+     24     decompress('out.txt', 'out_decompress.txt')
+
+<ipython-input-10-28f74befdabe> in compress(infile, dst, level)
+      1 import zlib
+      2 def compress(infile, dst, level=9):
+----> 3     infile = open(infile, 'rb')
+      4     dst = open(dst, 'wb')
+      5     compress = zlib.compressobj(level)
+
+FileNotFoundError: [Errno 2] No such file or directory: 'in.txt'
